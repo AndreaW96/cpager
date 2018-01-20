@@ -6,6 +6,7 @@ app.cPager.ctrl('myCtrl', {
         console.log('---> myTask 1. ');
 
         // Your Code here...
+        
 
         return function () {
             console.log('---> myTask 2. ');
@@ -18,7 +19,8 @@ app.cPager.ctrl('myCtrl', {
         console.log('---> Only Task; No PageChange');
 
         // Your Code here...
-
+        
+    
         return false;
     },
     myAnimateTask: function () {
