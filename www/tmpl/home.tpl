@@ -1,14 +1,3 @@
-<h1>Tabea Layout hier</h1>
-
-<button class="pageBtn" data-page="seite2" data-animate="ease-in" data-direction="right">Gehe zu Seite 2</button>
-<button class="pageBtn" data-page="seite2" data-animate="ease-in" data-direction="left">Gehe zu Seite 2 aber anders</button>
-
-
-
-
-
-
-<!--
 <div class="h-2 header">
 	<h1>Home</h1>
 </div>
@@ -43,4 +32,3 @@
 	<button class="pageBtn h-1 w-4" data-page="contact">Contact</button>
 	<button class="pageBtn h-1 w-4" data-page="impressum">Impressum</button>
 </div>
--->
