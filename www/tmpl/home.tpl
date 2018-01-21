@@ -4,7 +4,7 @@
 
 <div class="h-6">
 
-	<h2>WELTFRIEDEN</h2>
+	<h2>Beispiel</h2>
 	<button class="pageBtn h-1" data-page="grid">Example Grid</button>
 
 	<button class="pageBtn h-1" data-page="task" data-task="myCtrl.myTask">Example Task</button>
