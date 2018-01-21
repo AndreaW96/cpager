@@ -53,6 +53,13 @@
   <preference name="SplashShowOnlyFirstTime" value="true" />
 
 
+  <splash src="res/screen/android/landscape-xxhdpi.png" density="land-xxhdpi"/>
+  <splash src="res/screen/android/hdpi.png" density="port-hdpi"/>
+  <splash src="res/screen/android/ldpi.png" density="port-ldpi"/>
+  <splash src="res/screen/android/mdpi.png" density="port-mdpi"/>
+  <splash src="res/screen/android/xhdpi.png" density="port-xhdpi"/>
+    
+    
   <icon gap:platform="android" gap:qualifier="ldpi" src="res/icon/android/ldpi.png" />
   <icon gap:platform="android" gap:qualifier="mdpi" src="res/icon/android/mdpi.png" />
   <icon gap:platform="android" gap:qualifier="hdpi" src="res/icon/android/hdpi.png" />
